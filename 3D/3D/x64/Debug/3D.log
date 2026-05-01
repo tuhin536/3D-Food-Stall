@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Graphics Lab\3D\main.cpp(439,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Graphics Lab\3D\main.cpp(456,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Lab\3D\main.cpp(456,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Lab\3D\main.cpp(457,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Lab\3D\main.cpp(457,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Lab\3D\main.cpp(458,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Lab\3D\main.cpp(458,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Lab\3D\main.cpp(525,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  3D.vcxproj -> D:\Graphics Lab\3D\x64\Debug\3D.exe
