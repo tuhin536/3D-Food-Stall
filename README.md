@@ -1,10 +1,5 @@
 # 3D-Food-Stall
 
-3d-food-stall/
-├── main.cpp          # Full source code (single file)
-├── README.md         # This file
-└── CMakeLists.txt    # (Optional) CMake build file
-
 A fully interactive 3D scene built with **OpenGL**, **GLFW**, **GLAD**, and **GLM**.   The scene features a wooden food stall with a large **"FOOD STALL"** signboard, a central table, and two chairs placed on either side – perfect for a street food visualisation.
 ## 📌 Overview
 
