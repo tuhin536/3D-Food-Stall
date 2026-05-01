@@ -46,3 +46,14 @@ cd 3d-food-stall
 g++ -o foodstall main.cpp -lglfw -lGL -ldl -lglm
 ./foodstall
 
+CMakeLists.txt
+
+cmake_minimum_required(VERSION 3.10)
+project(3DFoodStall)
+
+find_package(glfw3 REQUIRED)
+find_package(glm REQUIRED)
+find_package(OpenGL REQUIRED)
+
+add_executable(foodstall main.cpp)
+target_link_libraries(foodstall glfw OpenGL::GL glm)
